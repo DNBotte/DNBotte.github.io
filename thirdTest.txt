@@ -1,4 +1,0 @@
-Third and final test: 
-undo (revert) previous two commits before syncing
-confirm undoing
-then delete this (not via revert)
