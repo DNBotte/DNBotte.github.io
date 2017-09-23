@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: davidnbotte.space
+email: info@davidnbotte.space
+description: > # this means to ignore newlines until "baseurl:"
+  Hi, my name's David. This is my website. It started as a resource bank for my students and fellow ESL teachers. After learning a good bit of code of combining with my background in data science, I developed a passion for introducing technology into the classroom. Take a look at some of the other areas I've been getting in to.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: davidnbotte
+github_username:  dnbotte
+
+# Build settings
+markdown: kramdown
