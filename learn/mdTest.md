@@ -1,5 +1,5 @@
 ---
-layout: learn
+layout: new
 ---
 
 # I. Python Syntax
