@@ -1,3 +1,7 @@
+---
+layout: learn
+---
+
 # I. Python Syntax
   
 [2. Variables](#2-variables)  
